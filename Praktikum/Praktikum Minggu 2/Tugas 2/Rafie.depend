@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634825028 source:e:\kuliah\c++\praktikum\praktikum minggu 2\tugas 2\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

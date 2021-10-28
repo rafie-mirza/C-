@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635441430 source:e:\kuliah\c++\bab 7 array\tugas 2 mahasiswa\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+

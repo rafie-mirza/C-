@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639372277 source:e:\kuliah\c++\praktikum\uas praktikum\main.cpp
+	<conio.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+

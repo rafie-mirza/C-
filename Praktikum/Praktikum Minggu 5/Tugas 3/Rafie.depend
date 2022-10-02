@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637305890 source:e:\kuliah\c++\praktikum\praktikum minggu 5\tugas 3\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
